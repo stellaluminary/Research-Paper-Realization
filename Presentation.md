@@ -10,8 +10,4 @@ CopyRight for every code and gif_files are PaPer author
 
 2. 1611.07004 Pix2Pix
 
-![pix2pix_cityscapes_1st_try](./Research-Paper-realization/1611.07004 Pix2Pix/pix2pix_cityscapes_1st_try.gif)
-[[./1611.07004 Pix2Pix/pix2pix_cityscapes_1st_try.gif]]
-
-
-<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif">
+<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif", title="pix2pix_cityscape">
