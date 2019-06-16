@@ -1,10 +1,4 @@
-<style type="text/css">
-img{
-border:3px solid red;
-weight=500px;
-height=500px;
-}
-</style>
+
 # Research-Paper-realization
 General Model Paper Realization with Tensorflow 2.0 
 
