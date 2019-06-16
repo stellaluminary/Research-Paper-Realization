@@ -17,6 +17,6 @@ CopyRight for every code and gif_files are PaPer author
 
 2. 1611.07004 Pix2Pix
 
-![image](https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif)
+![image](./1611.07004 Pix2Pix/pix2pix_cityscapes_1st_try.gif)
 
-<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif" alt="pix2pix_cityscape" height="500" width="500" align="center" />
+#<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif" alt="pix2pix_cityscape" height="500" width="500" align="center" />
