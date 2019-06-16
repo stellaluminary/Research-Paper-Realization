@@ -7,10 +7,18 @@ Made by Song GH
 
 CopyRight for every code and gif_files are PaPer author
 
-1. 1511.06434 DCGAN
+<font size=20>1. 1511.06434 DCGAN</font>
 
-2. 1611.07004 Pix2Pix
+1-1) Dataset : mnist
+<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1511.06434%20DCGAN/DCGAN_mnist.gif" alt="DCGAN_mnist.gif" align="center" height="500" width="500" />
 
-![image](./1611.07004 Pix2Pix/pix2pix_cityscapes_1st_try.gif)
+1-2) Dataset : cifar10
+<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1511.06434%20DCGAN/DCGAN_cifar.gif" alt="DCGAN_cifar.gif" align="center" height="500" width="500" />
 
-#<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif" alt="pix2pix_cityscape" height="500" width="500" align="center" />
+1-3) Dataset : celebA in kaggle dataset
+<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1511.06434%20DCGAN/DCGAN_celeba.gif" alt="DCGAN_celeba.gif" align="center" height="500" width="500" />
+
+
+<font size=20>2. 1611.07004 Pix2Pix</font>
+
+<img src="https://github.com/stellaluminary/Research-Paper-realization/blob/master/1611.07004%20Pix2Pix/pix2pix_cityscapes_1st_try.gif" alt="pix2pix_cityscape" height="500" width="500" align="center" />
